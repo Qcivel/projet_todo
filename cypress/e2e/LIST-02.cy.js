@@ -7,7 +7,7 @@ describe('Test de la todolist', () => {
     cy.get('input[name="submit"]').click()
     cy.visit('http://localhost:8080/task/activeall')
   })
-  it("Ajout d’une tâche valide avec une catégorie",()=>{
+  it("Ses tâches terminées ne sont pas affichées",()=>{
     cy.contains('button','désactiver').click()
     cy.wait(2000)
     cy.get('article').contains('h3',"Finir l'évaluation");

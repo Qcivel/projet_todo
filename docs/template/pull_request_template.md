@@ -17,8 +17,8 @@ Cette PR contient le plan de tests, les tests end-to-end Cypress en AAA et l’a
 
 **Liens vers les livrables sur ma branche**
 
-- Plan de tests : [coller le lien GitHub vers plan_test.md]
-- Tests Cypress : [coller le lien vers le dossier cypress/e2e/]
+- Plan de tests : https://github.com/Qcivel/projet_todo/blob/evaluation-tests-audit/plan_test.md
+- Tests Cypress : https://github.com/Qcivel/projet_todo/tree/evaluation-tests-audit/cypress/e2e
 - Audit : [coller le lien GitHub vers audit.md]
 - Preuves d’exécution : [coller le lien vers le dossier resultats/]
 
@@ -30,7 +30,7 @@ Comptez les neuf cas du sujet, sans inclure l’exemple catégorie. Chaque ligne
 
 | Passage | Réussis | Échoués | Bloqués | Non exécutés |
 | --- | --- | --- | --- | --- |
-| Premier lancement | [Nombre] | [Nombre] | [Nombre] | [Nombre] |
+| Premier lancement | [8] | [0] | [1] | [1] |
 | Relance | [Nombre] | [Nombre] | [Nombre] | [Nombre] |
 
 **Principaux constats**
