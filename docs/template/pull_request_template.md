@@ -3,8 +3,8 @@
 
 ## Identification
 
-- **Nom et prénom :** [À compléter]
-- **Lien du fork :** [À compléter]
+- **Nom et prénom :** Civel Quentin
+- **Lien du fork :** https://github.com/Qcivel/projet_todo
 - **Branche de travail :** evaluation-tests-audit
 
 ## Travail rendu

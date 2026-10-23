@@ -4,9 +4,9 @@ Complétez ce rapport à partir de vos résultats réels. Des phrases courtes su
 
 ## 1 Présenter le travail
 
-- **Nom et prénom :** [À compléter]
-- **Date :** [À compléter]
-- **Fork et branche :** [Lien et nom de la branche]
+- **Nom et prénom :** Civel Quentin
+- **Date :** 23/10/2026
+- **Fork et branche :** ttps://github.com/Qcivel/projet_todo
 - **Version testée :** [Identifiant du commit testé]
 - **Pages testées :** /register, /task/new et /task/activeall
 

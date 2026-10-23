@@ -1,7 +1,7 @@
 # Plan de tests
 
-**Nom et prénom :** [À compléter]  
-**Date :** [À compléter]
+**Nom et prénom :** Civel Quentin 
+**Date :** 23/10/2026
 
 Complétez ce fichier avant de coder les tests, puis ajoutez les résultats après leur exécution.
 
